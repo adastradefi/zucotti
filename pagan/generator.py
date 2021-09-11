@@ -23,7 +23,7 @@ OUTPUT_PATH = ('%s%soutput%s' % (os.getcwd(), os.sep, os.sep))
 PACKAGE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Actual Image size in pixel is fixed in this version of pagan.
-IMAGE_SIZE = (128, 128)
+IMAGE_SIZE = (256, 256)
 
 # Desired virtual resolution of the image output.
 # Needs to be lesser or equal to the actual image size.
