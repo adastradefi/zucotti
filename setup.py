@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='pagan',
-    packages=['pagan'],
+    name='testv1',
+    packages=['testv1'],
     use_2to3=True,
     include_package_data=True,
     version='0.4.3',
