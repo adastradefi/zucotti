@@ -6,7 +6,7 @@ setup(
     use_2to3=True,
     include_package_data=True,
     version='0.4.3',
-    url='https://github.com/daboth/pagan',
+    url='https://github.com/adastradefi/zucotti',
     download_url='https://github.com/daboth/pagan/tarball/0.4.3',
     license='GPL',
     description='python avatar generator for absolute nerds',
